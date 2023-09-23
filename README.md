@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Oさん</h1>
+My Blog: https://0sn.net
 
 ###
 
-<h4 align="left">My Blog: https://0sn.net</h4>
+## Languages and Tools:
 
-###
-
-<h3 align="left">Languages and Tools:</h3>
-
-###
-
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
